@@ -1,0 +1,149 @@
+.header
+{
+    text-align: center;
+    background-color:blue!important;
+    color:white;
+    margin:0%!important;
+
+}
+.btn-uk
+{
+    width:30%!important;
+    height:40%!important;
+}
+.face-icon
+{
+    position:absolute!important;
+    left:2%!important;
+   
+}
+.insta-icon
+{
+    position:absolute!important;
+    left:12%!important;
+}
+.youtube-icon
+{
+    position:absolute!important;
+    left:22%!important;
+}
+.twitter-icon
+{
+    position:absolute!important;
+    left:33%!important;
+    
+}
+.whatsapp-icon
+{
+    position:absolute!important;
+    left:45%!important;
+    background-color: chartreuse;
+}
+.navigation
+{
+    display:inline-flex;
+    
+    
+}
+
+.cong-image
+{
+   width:600%!important;
+}
+h1{
+    text-align:center;
+}
+.logos
+{
+    width:30px!important;
+    margin-left:50%!important;
+
+}
+p{
+    text-align: center;
+       font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.info-section
+{
+    /* height:300%!important; */
+    background-color: darkblue;
+}
+.family
+{
+    position:absolute;
+    left:50%;
+}
+.online-saqah
+{
+    box-shadow: 12px 12px 12px grey;
+   
+    text-align: center;
+   
+    color:blue;
+    margin-left:0%;
+}
+.welfare
+{
+    color:greenyellow;
+    box-shadow: 12px 12px 12px grey;
+    text-align: center;
+    margin-left:0%
+   
+
+}
+.medical
+{
+    box-shadow: 12px 12px 12px grey;
+    
+    text-align: center;
+    
+    color:blue;  
+   
+}
+.roplant
+{
+    
+    box-shadow: 12px 12px 12px grey;
+   
+  
+    text-align: center;
+   
+   
+    color:blue;  
+}
+.edction
+{
+     
+    box-shadow: 12px 12px 12px grey;
+   
+  
+    text-align: center;
+   
+   
+    color:blue; 
+}
+.dastrkhn
+{
+ 
+    box-shadow: 12px 12px 12px grey;
+   
+  
+    text-align: center;
+   
+   
+    color:blue; 
+}
+footer
+{
+    background-color: black;
+    color: white;
+}
+li
+{
+    color:white;
+
+}
+i:hover{
+    cursor: pointer;
+    color:skyblue;
+}
